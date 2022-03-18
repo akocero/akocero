@@ -9,14 +9,14 @@ I design and develop things for the web.
 ### How to reach me:
 
 <a href="mailto: badatoeugenepaulm@gmail.com">
-<img src="https://img.shields.io/badge/-badatoeugenepaulm%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>  <a  href="https://www.instagram.com/ionictech1/">   <img src="https://img.shields.io/badge/@carlcastanas-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="https://www.linkedin.com/in/carlcastanas/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://www.carlcastanas.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-badatoeugenepaulm%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://img.shields.io/badge/carlcastanas-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  <a  href="https://eugenebadato.netlify.app/"><img src="https://img.shields.io/badge/carlcastanas.github.io-%2312100E.svg?&style=for-the-badge&logo=safari&logoColor=white"></a>
 
 ### Current Status Quo:
 
 -   💼 Full-Stack <strong>React.js/ Node.js Developer</strong>.
 -   🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
 -   💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
--   👀 See my [Personal Portfolio](https://carlcastanas.github.io/portfolio/) to get more info
+-   👀 See my [Personal Portfolio](https://eugenebadato.netlify.app/) to get more info
 
 ### Tools I work upon : 🛠
 
@@ -27,8 +27,8 @@ I design and develop things for the web.
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akocero&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><br><br>
-<a href="https://www.linkedin.com/in/carlcastanas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlcastanas&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+<a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akocero&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
 
 ### Github Activity: 🔥
