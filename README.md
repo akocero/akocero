@@ -12,8 +12,8 @@ I design and develop things for the web.
 ### Current Status Quo: :star:
 
 -   💼 Full-Stack <strong>Vue.js/ Laravel Developer</strong>.
--   🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
--   💬 Feel free to discuss with me about <strong>Cyber Security, Web Development, NFT Projects</strong>
+-   🔍 I’m looking for connections in <strong>Web Development and Web Design</strong> Industry.
+-   💬 Feel free to discuss with me about <strong>Web Design, Web Development, Mentoring</strong>
 -   👀 See my [Personal Portfolio](https://eugenebadato.netlify.app/) to get more info
 
 ### Tools I work upon : 🛠
