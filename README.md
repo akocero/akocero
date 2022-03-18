@@ -6,12 +6,12 @@ I design and develop things for the web.
 
 [![](https://img.shields.io/badge/Gmail-badatoeugenepaulm@gmail.com-red)](mailto:badatoeugenepaulm@gmail.com) [![](https://img.shields.io/badge/Linkedin-Eugene%20Paul%20Badato-blue)](https://www.linkedin.com/in/eugene-paul-badato-1305751aa/)
 
-### How to reach me:
+### How to reach me: :phone:
 
 <a href="mailto: badatoeugenepaulm@gmail.com">
 <img src="https://img.shields.io/badge/-badatoeugenepaulm%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://img.shields.io/badge/badatoeugenepaulm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
-### Current Status Quo:
+### Current Status Quo: :star:
 
 -   💼 Full-Stack <strong>Vue.js/ Laravel Developer</strong>.
 -   🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
@@ -25,7 +25,7 @@ I design and develop things for the web.
 
 
 
-### GitHub Highlights: :blossom:
+### GitHub Highlights: :boom:
 
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akocero&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
