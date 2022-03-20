@@ -27,7 +27,7 @@ I design and develop things for the web.
 
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akocero&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
-</a><a href="">
+</a><a href=""><br><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akocero&show_icons=true&theme=radical" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
