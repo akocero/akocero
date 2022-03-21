@@ -26,11 +26,11 @@ I design and develop things for the web.
 ### GitHub Highlights: :boom:
 
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akocero&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akocero&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </a><a href=""><br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akocero&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akocero&show_icons=true&theme=dark" />
 </a><br><br>
 <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akocero&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akocero&langs_count=8&layout=compact&theme=dark&hide=html,Tcl" />
 </a>
 
