@@ -2,7 +2,7 @@
 
 I design and develop things for the web.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EC8A23&lines=I'm+Eugene+Paul+Badato;Front-end+Web+Developer;UI/UX+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EC8A23&lines=I'm+Eugene+Paul+Badato;A+Front-end+Web+Developer;A+UI/UX+Designer;A+Mentor)](https://git.io/typing-svg)
 
 ### How to reach me: :phone:
 
