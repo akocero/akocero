@@ -39,6 +39,12 @@ I design and develop things for the web.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akocero&langs_count=8&layout=compact&theme=dark&hide=html,Tcl" />
 </a>
 
+## 🎁 Support
+
+If you like what I do, please consider **[buying me a coffee](https://www.buymeacoffee.com/angelofallaria)**!
+
+<a href="https://www.buymeacoffee.com/eugenebadato" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+
 
 
 
