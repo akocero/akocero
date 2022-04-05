@@ -8,6 +8,7 @@ I design and develop things for the web.
 
 <a href="mailto: badatoeugenepaulm@gmail.com">
 <img src="https://img.shields.io/badge/-badatoeugenepaulm%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://img.shields.io/badge/badatoeugenepaulm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
+<a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://komarev.com/ghpvc/?username=akocero&style=for-the-badge"></a>
 
 ### Status: :star:
 
