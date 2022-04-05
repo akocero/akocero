@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, It’s me Eugene Paul Badato.</h1>
 
-I design and develop things for the web.
+I design and develop things for the web. 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=EC8A23&lines=I'm+Eugene+Paul+Badato;A+Front-end+Web+Developer;A+UI/UX+Designer;A+Mentor)](https://git.io/typing-svg)
 
@@ -8,14 +8,16 @@ I design and develop things for the web.
 
 <a href="mailto: badatoeugenepaulm@gmail.com">
 <img src="https://img.shields.io/badge/-badatoeugenepaulm%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://img.shields.io/badge/badatoeugenepaulm-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
-<a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://komarev.com/ghpvc/?username=akocero&style=for-the-badge"></a>
 
-### Status: :star:
+
+### About: :star:
 
 -   💼 Full-Stack <strong>Vue.js/ Laravel Developer</strong>.
 -   🔍 I’m looking for connections in <strong>Web Development and Web Design</strong> Industry.
 -   💬 Feel free to discuss with me about <strong>Web Design, Web Development and Mentoring</strong>
 -   👀 See my [Personal Portfolio](https://eugenebadato.netlify.app/) to get more info
+
+<a href="https://www.linkedin.com/in/eugene-paul-badato-1305751aa/"><img src="https://komarev.com/ghpvc/?username=akocero&style=for-the-badge"></a>
 
 ### Stack: 🛠
 
