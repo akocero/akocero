@@ -47,6 +47,7 @@ I design and develop things for the web.
 If you like what I do, please consider **[buying me a coffee](https://www.buymeacoffee.com/angelofallaria)**!
 
 <a href="https://www.buymeacoffee.com/eugenebadato" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="119"></a>
+[![Paypal](https://img.shields.io/badge/PayPal-akocero?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.com/paypalme/eugenebadato)
 
 
 
